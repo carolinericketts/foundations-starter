@@ -9,7 +9,7 @@ For _Learning by Crafting_, you’ll design two resources for a future CSC110 cl
 1. a homework assignment
 2. an in-class activity. 
 
-Choose topics you found challenging. Writing instructions, anticipating common mistakes, and working through your own materials will help you strengthen your understanding and prepare for the final exam.
+Choose topics you found challenging. Writing instructions, anticipating common mistakes, and working through your own materials will help you strengthen your understanding and prepare for the final exam: **Loops and Nested Loops**
 
 Complete both components individually. The deadlines and submission instructions below are for Learning by Crafting.
 
@@ -17,12 +17,12 @@ Complete both components individually. The deadlines and submission instructions
 
 | Artifact | What to include |
 |---|---|
-| **Homework assignment** | Student instructions in the style of CSC110 homework, measurable learning outcomes, starter code that shows where students should write docstrings, and a complete example solution. |
-| **In-class activity** | An instructor guide with learning goals, a materials list, and directions for running the activity. Include the materials students will use, such as slides, a handout, a worksheet, or a physical manipulative. |
+| **Homework assignment: Loops** | Student instructions in the style of CSC110 homework, measurable learning outcomes, starter code that shows where students should write docstrings, and a complete example solution. |
+| **In-class activity: Nested Loops** | An instructor guide with learning goals, a materials list, and directions for running the activity. Include the materials students will use, such as slides, a handout, a worksheet, or a physical manipulative. |
 
 Design the homework so students can solve it in more than one way. Aim for a task a typical CSC110 student can complete by writing **20–30 lines of code**, excluding comments and docstrings. Comment your example solution and write a docstring for every function in it.
 
-Choose a **different topic** for the in-class activity. Give students something to do with the concept, such as tracing a loop, explaining why a function behaves unexpectedly, or comparing two approaches. Design the activity so the instructor can see what students understand and where they are getting stuck.
+Choose a **different topic** for the in-class activity. Give students something to do with the concept, such as **tracing a loop**, explaining why a function behaves unexpectedly, or comparing two approaches. Design the activity so the instructor can see what students understand and where they are getting stuck.
 
 Use GitHub to track your work. You may use additional imports, algorithms, or modules if you can explain how they support the assignment. If you copy a block of code, mark its boundaries with comments, cite the original source next to the block, and include the source in the references at the top of the file.
 
@@ -41,9 +41,9 @@ The final submission deadline is firm.
 
 ## Proposal
 
-Use the proposal template and submit `[Name]_LearningActivitiesProposal.pdf`, replacing `[Name]` with your name.
+Use the proposal template and submit `CarolineRicketts_LearningActivitiesProposal.pdf`, replacing `[Name]` with your name.
 
-Propose two topics from this list: **functions, conditionals, loops, nested loops, strings, and lists**. For each topic, include:
+Propose two topics from this list: **loops, nested loops**. For each topic, include:
 
 - Two possible learning outcomes for a homework assignment. Use observable verbs from Bloom’s Taxonomy, such as *trace*, *write*, or *debug*.
 - Two common mistakes or misconceptions an in-class activity could help students recognize and address.
