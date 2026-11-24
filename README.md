@@ -45,16 +45,22 @@ Use the proposal template and submit `CarolineRicketts_LearningActivitiesProposa
 
 Propose two topics from this list: **loops, nested loops**. For each topic, include:
 
-- Two possible learning outcomes for a homework assignment. Use observable verbs from Bloom’s Taxonomy, such as *trace*, *write*, or *debug*.
-- Two common mistakes or misconceptions an in-class activity could help students recognize and address.
+- Two possible learning outcomes for a homework assignment. Use observable verbs from Bloom’s Taxonomy, such as *trace*, *write*, or *debug*:
+1. Write code to perform a three-round rock, paper, scissors game between a user and the computer utilizing loops.
+2. Write useful comments to explain your code, especially the functions of your loops.
+- Two common mistakes or misconceptions an in-class activity could help students recognize and address:
+1. One common mistake my in-class activity will help students address is printing output with improper spacing and lines.
+2. A common misconception my in-class activity will help students recognize is the order and amount of outputs that are printed in a nested loop.
 
 ## Design
 
-Submit `[Name]_LearningActivitiesDesign.pdf`. Include:
+Submit `CarolineRicketts_LearningActivitiesDesign.pdf`. Include:
 
-- **Topic choices.** Identify which topic you’ll use for the homework and which you’ll use for the in-class activity.
-- **Homework plan.** Describe the overall task and the three or four smaller tasks students will complete to accomplish it.
-- **Activity plan.** Describe what students will do, outline at least two prompts or steps, and explain how they will help surface or address the mistakes or misconceptions you identified.
+- **Topic choices.** Identify which topic you’ll use for the homework (**LOOPS**) and which you’ll use for the in-class activity (**NESTED LOOPS**).
+- **Homework plan.** Describe the overall task and the three or four smaller tasks students will complete to accomplish it:
+The overall task of the homework assignment is for students to code a best-of-three rock, paper, scissors game. The first smaller task is to set up a for OR a while loop for a three-round game. The second smaller task is to code conditions for each round’s winner (or a draw where nobody wins) while keeping track of each player’s overall score within the loop. The third smaller task is to modify the loop to go for three rounds OR stop when one player has reached two points.
+- **Activity plan.** Describe what students will do, outline at least two prompts or steps, and explain how they will help surface or address the mistakes or misconceptions you identified:
+In this activity, students will trace a nested loop and modify it to produce a new, formatted output. In the first step, students will use a table to trace a nested loop code that prints all of the ascending odd j values with an exclamation mark on the same line for each ascending i value. This task will help reveal which students struggle with the outputs of nested loops and allow them to address these misunderstandings by carefully tracing each input and output. In the second step, students will modify the code to print each descending i value with a colon on separate lines, and on each line print each ascending even j value. In addition to the assistance the first task provides, the second task will allow students to surface and address any issues in formatting and spacing within nested loops by debugging their own code.
 - **GitHub progress.** Include a screenshot of your repository, created through the final project assignment on GitHub, showing at least two commits. Edits to Markdown files count.
 
 ## Prototypes and final submission
